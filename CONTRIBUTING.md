@@ -1,4 +1,4 @@
-# Contributing
+# Stop Contributing
 
 IPDK uses GitHub to manage reviews of pull requests.
 
